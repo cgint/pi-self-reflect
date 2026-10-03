@@ -40,8 +40,8 @@
     "precommit": "tsc --noEmit && npm run test && npm audit --audit-level=moderate"
   },
   "devDependencies": {
-    "@earendil-works/pi-ai": "^0.84.2",
-    "@earendil-works/pi-coding-agent": "^0.84.2",
+    "@earendil-works/pi-ai": "^1.0.0",
+    "@earendil-works/pi-coding-agent": "^1.0.0",
     "@types/node": "^26.2.0",
     "vitest": "^4.1.10",
     "typescript": "^7.0.2"
